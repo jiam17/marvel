@@ -1,0 +1,50 @@
+header{
+    background-image: url('../img/last-movies.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+
+nav{
+    padding-top: 60px;
+    text-align: center;
+
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    list-style: none;
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover{
+    color: #ccc;
+}
+
+
+
+.card-login{
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+}
+
+.border-boton{
+    border-radius: 15%;
+}
+
+.img-comics{
+    max-width: 300px;
+    max-height: 500px;
+}
+
+.comicsImg{
+    max-height: 350px;
+}
